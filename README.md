@@ -1,5 +1,5 @@
 # ColorPicker
-ColorPicker was inspired 
+ColorPicker was inspired websites such as Coolors.co. 
 
 # Build status
 Current Build: 2.4
@@ -18,7 +18,7 @@ Edit History:
 React.js, Next.js, JS, CSS
 
 # Provide Feedback
-Please give me feedback so I can fine tune the game: https://forms.gle/AQkp4BuLvUkLD2qV6 
+Please give me feedback so I can fine tune the game: https://forms.gle/QuXB5xRNcpi62Ler7
 
 # Credits
 Shout out General Assembly for teaching me this stuff.
