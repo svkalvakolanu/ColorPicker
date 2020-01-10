@@ -5,14 +5,14 @@ ColorPicker was inspired
 Current Build: 2.4
 
 Edit History:
-1.0 - Working Basic Simon Game
-2.0 - Quality of life improvements, Score Keeping, etc.
-3.0 - Simon updated to Simon Ultra (procedurally generated boards)
-4.0 - Reaction Time Spin-off Added.
-5.0 - Spatial Awareness Game Added
-5.1 - CSS fixes
-5.2 - Scoring Fixes
-5.3 - color generator algo snip built
+1.0 - Randomizer Feature Built and Working
+1.1 - Added Lock feature
+1.2 - CSS changes
+2.0 - Scheme Gen Feature Built and Working
+2.1 - CSS Updates
+2.2 - Code Optimizations/Refactors
+2.3 - Randomizer to Scheme Feature pushed (breaks app)
+2.4 - Bug Fixes
 
 # Languages Used:
 React.js, Next.js, JS, CSS
